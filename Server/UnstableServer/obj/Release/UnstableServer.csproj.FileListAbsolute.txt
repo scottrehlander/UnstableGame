@@ -1,0 +1,4 @@
+F:\Unstable\Server\UnstableServer\obj\Release\ResolveAssemblyReference.cache
+F:\Unstable\Server\UnstableServer\obj\Release\Unstable.Properties.Resources.resources
+F:\Unstable\Server\UnstableServer\obj\Release\Unstable.UnstableGUI.resources
+F:\Unstable\Server\UnstableServer\obj\Release\UnstableServer.csproj.GenerateResource.Cache
